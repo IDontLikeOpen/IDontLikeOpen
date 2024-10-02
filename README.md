@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @IDontLikeOpen
-- 👀 I’m interested in React and other technologies
+- 👀 I’m interested in Vue and other technologies
 - 🌱 I’m currently learning Vue and app dev in general
 - 💞️ I’m looking to collaborate on Vue
 - 📫 How to reach me idontlikeopen@gmail.com 
